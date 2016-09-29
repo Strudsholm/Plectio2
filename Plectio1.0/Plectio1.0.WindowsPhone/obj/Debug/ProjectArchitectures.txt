@@ -1,0 +1,1 @@
+c:\users\joachim\documents\visual studio 2015\Projects\Plectio1.0\Plectio1.0\Plectio1.0.WindowsPhone\Plectio1.0.WindowsPhone.csproj;neutral
